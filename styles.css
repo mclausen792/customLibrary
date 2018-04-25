@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: #b7c8e2;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+button {
+  width: 40%;
+  padding: 2%;
+}
+
+#btn1 {
+  margin-top: 10%;
+  background-color: whitesmoke;
+  font-size: 100%
+}
+
+#btn2 {
+  margin-top: 4%;
+  background-color: whitesmoke;
+  font-size: 100%
+}
+
+#fullname, #salutation {
+  margin-top: 2%;
+  font-size: 3vh;
+}
